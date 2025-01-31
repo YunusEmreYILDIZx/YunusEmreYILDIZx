@@ -1,7 +1,7 @@
-## Hi there 🖐🏻
+## Hi there ! 🖐🏻
 I'm student in the Departmant of Management Information Systems at Dokuz Eylül University(4/4). I continue to learn and work in the fields of Data Science & Machine Learning and Management & Finance. 
 
-Social 🤳
+🌐 Socials 🤳
 
 [![Medium Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-quare&labelColor=blue&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/yunus-emre-y/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
