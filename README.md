@@ -9,8 +9,7 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
-![Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.png)<!--
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 **YunusEmreYILDIZx/YunusEmreYILDIZx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
