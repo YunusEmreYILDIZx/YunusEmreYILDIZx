@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-HuggingFace-yellow?style=flat-quare&labelColor=FF9800&logo=HuggingFace&logoColor=white&link=link)](link)
+[![Blogger Badge](https://img.shields.io/badge/-Hugging_Face-yellow?style=flat-quare&labelColor=white&logo=HuggingFace&logoColor=white&link=link)](link)
 
 
 
