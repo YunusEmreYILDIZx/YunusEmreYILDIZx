@@ -1,7 +1,7 @@
 ## Hi there ! 🖐🏻
 I'm student in the Departmant of Management Information Systems at Dokuz Eylül University(4/4). I continue to learn and work in the fields of Data Science & Machine Learning and Management & Finance. 
 
- 🤳 SOCIALS:
+ 🤳 Socials:
 
 [![Medium Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-quare&labelColor=blue&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/yunus-emre-y/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
@@ -16,7 +16,7 @@ I'm student in the Departmant of Management Information Systems at Dokuz Eylül 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/359e8bd60db3176dc0ee702c7e51b8c71d5b2a3a7ea1e6b26c066f77ed343ac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/359e8bd60db3176dc0ee702c7e51b8c71d5b2a3a7ea1e6b26c066f77ed343ac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" data-canonical-src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
-🤖 AI TOOLS:
+🤖 AI Tools:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab7cc86b1732285ea35c5b555b5f958f063d9215f5ce0afc85743c646bb716e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ab7cc86b1732285ea35c5b555b5f958f063d9215f5ce0afc85743c646bb716e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="TensorFlow" data-canonical-src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ad18fa0ec11eec42003562b40a61f4d8643454535b4f3b167bdde4a308b8491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0ad18fa0ec11eec42003562b40a61f4d8643454535b4f3b167bdde4a308b8491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465" alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" style="max-width: 100%;"></a>
