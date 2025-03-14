@@ -1,5 +1,5 @@
 ## Hi there ! 🖐🏻
-I'm student in the Departmant of Management Information Systems at Dokuz Eylül University(4/4). I continue to learn and work in the fields of Data Science & Machine Learning and Management & Finance. 
+I'm student in the Departmant of Management Information Systems at Dokuz Eylül University(4/4). I focus on AI technologies and working on integrating them into web and mobile based applications in fields such as Business and Finance.
 
  🤳 Socials:
 
